@@ -38,7 +38,7 @@
       2
     </td>
     <td>
-      <a href="#">
+      <a href="https://github.com/myshasolin/pet_projects/tree/main/web_scraping">
       сбор информации с сайта
       </a>
     </td>
