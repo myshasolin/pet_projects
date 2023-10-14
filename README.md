@@ -19,7 +19,7 @@
       1
     </td>
     <td>
-      <a href="https://github.com/myshasolin/pet_projects/tree/main/optimization_of_production_costs">
+      <a href="https://github.com/myshasolin/pet_projects/tree/main/01%20optimization_of_production_costs">
         оптимизация производственных расходов за счёт контроля температуры стали
       </a>
     </td>
@@ -38,7 +38,7 @@
       2
     </td>
     <td>
-      <a href="https://github.com/myshasolin/pet_projects/tree/main/web_scraping">
+      <a href="https://github.com/myshasolin/pet_projects/tree/main/02%20web_scraping">
       сбор информации с сайта
       </a>
     </td>
