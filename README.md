@@ -68,7 +68,7 @@
       numpy, pandas, sklearn, scipy, statistics, lightgbm, collections, csv, random, joblib, os, pickle, warnings, tqdm, implicit, tensorflow.keras
     </td>
     <td>
-      завершён
+      в работе
     </td>
   </tr>
 </table>
