@@ -39,7 +39,7 @@
     </td>
     <td>
       <a href="https://github.com/myshasolin/pet_projects/tree/main/02%20web_scraping">
-      задача ранжирования от Alfa Campus
+      сбор информации с сайта
       </a>
     </td>
     <td>
@@ -58,7 +58,7 @@
     </td>
     <td>
       <a href="https://github.com/myshasolin/pet_projects/tree/main/03%20ranking_task_exercise">
-      сбор информации с сайта
+      задача ранжирования от Alfa Campus
       </a>
     </td>
     <td>
