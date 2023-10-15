@@ -39,6 +39,25 @@
     </td>
     <td>
       <a href="https://github.com/myshasolin/pet_projects/tree/main/02%20web_scraping">
+      задача ранжирования от Alfa Campus
+      </a>
+    </td>
+    <td>
+      два варианта решения задачи ранжирования от Alfa Campus. Оба буду дорабатывать, так как оба они показывают хороший результат по MNDCG@10, но слабый по MAP@10 
+    </td>
+    <td>
+      scrapy, itemadapter, twisted, pymongo,  requests, dotenv, csv, os, copy
+    </td>
+    <td>
+      завершён
+    </td>
+  </tr>
+  <tr>
+    <td>
+      3
+    </td>
+    <td>
+      <a href="#">
       сбор информации с сайта
       </a>
     </td>
@@ -46,7 +65,7 @@
       сбор информации с сайта при помощи библиотеки scrapy - пишем паука, который, логинится, переходит в нужные разделы и собирает информацию в заданную структуру.<br>Код универсальный и его логика может быть применена ко многим доступныи интернет-ресурсам для сбора информации из открытых инсточников 
     </td>
     <td>
-      scrapy, itemadapter, twisted, pymongo,  requests, dotenv, csv, os, copy
+      numpy, pandas, sklearn, scipy, statistics, lightgbm, collections, csv, random, joblib, os, pickle, warnings, tqdm, implicit, tensorflow.keras
     </td>
     <td>
       завершён
