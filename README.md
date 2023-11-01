@@ -71,4 +71,23 @@
       в работе
     </td>
   </tr>
+  <tr>
+    <td>
+      4
+    </td>
+    <td>
+      <a href="https://github.com/myshasolin/pet_projects/blob/main/04%20when_working_with_texts/when_working_with_texts.ipynb">
+      полезные самописные приёмы
+      </a>
+    </td>
+    <td>
+      пригодились при работе с классификацией русскоязычных текстов
+    </td>
+    <td>
+      joblib, os, pickle, random, string, warnings, numpy, pandas, altair, matplotlib, seaborn, colorama, tqdm, google.colab, sklearn, catboost, lightgbm, xgboost, transformers, torch
+    </td>
+    <td>
+      завершён
+    </td>
+  </tr>
 </table>
